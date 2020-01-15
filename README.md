@@ -1,6 +1,6 @@
 # first-web-page
 web page
-<DOCTYPE! html>
+<DOCTYPE! html 5>
 <html>
   
   <style>
@@ -8,23 +8,43 @@ web page
     background-color: blue;
   }
   </style>
+  <body>
   
-  <h1>My First Webpage</h2>
+  <header>
+    <h1>My First Webpage</h2>
+  </header>
   
-  <div>
-  <h2>About Me</h2>
-  <p> </p>
-  </div>
+  <main>
   
-  <div>
+  <section>
+   <h2>About Me</h2>
+      <article>
+        <p> </p>
+      </article>
+    </section>
+  
+<section>  
   <h3>My Hobbies and Interests</h3>
-  <ul>
-  Reading and Writing
-  Nature Walks
-  Skateboarding
-  </ul>
-  </div>
+  <article>
+    <ul>
+      <li>Reading and Writing</li>
+      <li>Nature Walks</li>
+      <li>Skateboarding</li>
+    </ul>
+  </article>
+  </section>
+  <img src=" " />
   
-  <h3>Interesting Experiences</h3>
+  <section>
+    <h3>Interesting Experiences</h3>
+  <article>
+    
+  </article>
+  </section>
   
+  </main>
+  
+  <footer> </footer>
+  
+  </body>
 </html>
