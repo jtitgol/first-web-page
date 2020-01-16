@@ -4,7 +4,7 @@ web page
 <html>
   
   <style>
-    .background {
+    background {
     background-color: blue;
   }
   </style>
